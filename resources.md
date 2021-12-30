@@ -6,6 +6,9 @@ sidebar_link: true
 
 
 ## Beginning Python
+Never programmed before? Or brand new to Python? Python has a great [repository](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+
+Some programming experience, but new to Python? [Start here](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
 ### Geoscience Python
 
