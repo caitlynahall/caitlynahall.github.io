@@ -3,13 +3,10 @@ layout: page
 title: Resources
 sidebar_link: true
 ---
-# Class Resources
 
 
 ## Beginning Python
--> Just starting? Go here
-
--> Have some experience? Go here
+[GEO-Python](https://geo-python-site.readthedocs.io/en/latest/)
 
 ## Beginning R 
 -> Just starting? Go here
