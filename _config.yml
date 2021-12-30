@@ -4,9 +4,9 @@ remote_theme:     fongandrew/hydeout
 highlighter:      rouge
 
 # Setup
-title:            $type-size-4 Caitlyn A. Hall
+title:            Dr. Caitlyn A. Hall
 tagline:          ' '
-description:      'research, course resources, side projects'
+description:      'research, resources, side projects'
 url:              https://caitlynahall.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
