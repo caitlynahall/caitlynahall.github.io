@@ -6,12 +6,18 @@ sidebar_link: true
 
 
 ## Beginning Python
+
+### Geoscience Python
+
 [GEO-Python](https://geo-python-site.readthedocs.io/en/latest/)
 
-## Beginning R 
--> Just starting? Go here
+### Groups Doing Great Work
 
--> Have some experience? Go here
+
+## Beginning R 
+
+### Geoscience R 
+[R for Water Research Data Sciene](https://www.r4wrds.com/)
 
 ## Research 
 -> Just starting? Go here
